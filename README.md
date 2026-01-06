@@ -1,16 +1,16 @@
-# 💫 About Me:
+# 💕 About Me:
 
 ### AI Engineer & Data Scientist 🤖📊
 
 I build **autonomous AI ecosystems** and multi-agent systems using **n8n** and the **Model Context Protocol (MCP)** to orchestrate complex workflows and drive operational efficiency.
 
-- 🚀 **Impact:** Developed a multi-agent system that cut content production costs by **R$ 30.00/unit**.
-- 🧠 **Focus:**
+- **Impact:** Developed a multi-agent system that cut content production costs by **R$ 30.00/unit**.
+- **Focus:**
     - AI Orchestration: Building multi-agent systems and autonomous workflows using n8n and MCP, focusing on operational scalability and cost reduction.
     - NLP & Deep Learning: Hands-on development with BERTimbau (NER) for entity extraction
     - Data Intelligence: Leveraging BigQuery, Google Sheets, and Looker Studio as the data foundation for intelligent automation.
-- 🎓 **Education:** Final year of Data Science & Machine Learning.
-- 💼 **Current Role:** BI Analyst
+- **Education:** Final year of Data Science & Machine Learning.
+- **Current Role:** BI Analyst
 
 ---
 
